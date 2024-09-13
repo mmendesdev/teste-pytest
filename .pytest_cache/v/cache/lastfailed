@@ -1,4 +1,7 @@
 {
   "src/test_async_functions.py": true,
-  "src/test_calculator.py": true
+  "src/test_calculator.py": true,
+  "src/app/test/test_app.py": true,
+  "src/test_simples/test_async_functions.py": true,
+  "src/test_simples/test_calculator.py": true
 }
